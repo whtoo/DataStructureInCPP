@@ -14,6 +14,7 @@ using std::cout;
 using std::string;
 using std::endl;
 
+//test
 template <class T>
 int getArrayLen(const T& array){
     return (sizeof(array)/sizeof(array[0]));
